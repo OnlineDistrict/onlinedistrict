@@ -1,0 +1,17 @@
+{
+    name:'tmp',
+    adress:'nakamura1-1',
+    num:52,
+    house:{
+        101:{
+            visit:0,
+            memo:'',
+            option:1
+        },
+        102:{
+            visit:1,
+            memo:'',
+            option:1
+        }
+    }
+}
